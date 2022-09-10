@@ -2,7 +2,7 @@
 
 <br>
 <p>
-I’m learning **python** <br>
+I’m learning python <br>
 Reach me on TheW#1841 on Discord.
 </p>
 
