@@ -2,8 +2,8 @@
 
 <br>
 <p>
-I’m learning python. <br>
-Reach me on ZaOsJar#1841 on Discord.
+Reach me on ZaOsJar#1841 on Discord. <br>
+I’m learning python.
 </p>
 
 
