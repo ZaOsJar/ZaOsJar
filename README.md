@@ -2,7 +2,6 @@
 
 <br>
 <p>
-ZaOsJar#1841 on Discord. <br>
+Contact me at ZaOsJar#1841 on Discord. <br>
 </p>
-
 
