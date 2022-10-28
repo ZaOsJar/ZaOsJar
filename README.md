@@ -2,8 +2,7 @@
 
 <br>
 <p>
-Reach me on ZaOsJar#1841 on Discord. <br>
-I’m learning python.
+ZaOsJar#1841 on Discord. <br>
 </p>
 
 
