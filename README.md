@@ -1,10 +1,15 @@
 <h1 align="center">Hello my name is ZaOsJar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
 
 <p>
-You can contact me at ZaOsJar#1841 on Discord. <br>
+I am a person who likes drinking and collecting tea. I also like a tech, tech ranging from single-chip computers to wireless keyboards, what I'm saying is, I like every type of tech you can probably think of. I proudly use Neovim as my editor of choice, and vi motions. In the area of tech, I'm currently focusing on learning python and more complexer parts of unix operating systems, old ones and new ones alike. Old tech and software is also really interesting to me. I'm also really keen on learning new stuff.
 </p>
 
-<h2>I use:</h2>
+<p>
+You can also check out my dotfiles, they're pretty large. <br>
+Fell free to contact me at ZaOsJar#1841 on Discord.
+</p>
+
+<h2>Tools I use:</h2>
 
 <div>
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
