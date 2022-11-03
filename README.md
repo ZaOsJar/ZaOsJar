@@ -1,7 +1,7 @@
 <h1 align="center">Hello my name is ZaOsJar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
 
 <p>
-Contact me at ZaOsJar#1841 on Discord. <br>
+You can contact me at ZaOsJar#1841 on Discord. <br>
 </p>
 
 <h2>I use:</h2>
