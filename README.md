@@ -1,10 +1,10 @@
 <h2 align="center">Hello, my name is Ēvalds <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"></h1>
 
 <p>
-I am currently working on my game, it is an ASCII-based role-playing game; it is being written in the C18 standard. The name of the game is: "The Lands of War". I am also an avid chess player, though I am bad.
+I am currently writing code and story for my ASCII-based role-playing game, I am expecting for it to be ready for playtesting in mid February. I am currently calling the game: "The Lands of War". I am also an avid chess player, though I am bad.
 
 
-My main text editors are vanilla emacs and vim.
+My main text editors are vanilla Emacs and neovim.
 </p>
 
 <h2>Tools I use:</h2>
